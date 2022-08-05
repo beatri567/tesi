@@ -172,6 +172,5 @@ ws4py==0.5.1
 WTForms==3.0.1
 xgboost==1.6.1
 yarg==0.1.9
-Note: you may need to restart the kernel to use updated packages.
-1
-​
+
+
