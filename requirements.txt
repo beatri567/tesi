@@ -1,3 +1,4 @@
+
 ansi2html==1.7.0
 anvil-uplink==0.4.0
 anyio==3.6.1
@@ -32,6 +33,7 @@ dash-extensions==0.0.16
 dash-html-components==2.0.0
 dash-table==5.0.0
 dash-table-experiments==0.6.0
+dash-tools==1.7.1
 dearpygui==1.6.2
 debugpy==1.6.0
 decorator==5.1.1
