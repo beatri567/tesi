@@ -45,6 +45,7 @@ entrypoints==0.4
 eurostat==0.2.3
 executing==0.8.3
 explainerdashboard==0.4.0
+ez-setup==0.9
 fastjsonschema==2.15.3
 filelock==3.7.1
 Flask==2.1.2
